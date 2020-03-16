@@ -1,0 +1,25 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "百度注册页面",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuyaqi6/register.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuyaqi6/register/issues"
+  },
+  "homepage": "https://github.com/chuyaqi6/register#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
