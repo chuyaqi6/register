@@ -6,7 +6,6 @@
 #main{
     background-color:gainsboro;
     width:400px;
-    /* height: 370px; */
     margin: 0 auto;
     padding: 20px 0 20px 20px;
     border-radius: 10px;  
@@ -60,6 +59,7 @@ input{
 #code-validation{
     color:red;
     font-size: 0.8em;
-    margin-left:60px;
+    margin-left:70px;
+    margin-top:5px;
     height:10px;
 }
